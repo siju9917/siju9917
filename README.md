@@ -9,8 +9,10 @@ Email: [simon.julien@colorado.edu](mailto:simon.julien@colorado.edu)
 
 
 
-https://user-images.githubusercontent.com/51030092/152072331-5388f159-2eb2-493c-a0c9-3231ec55aa61.mp4
 
+<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
+  <source src="https://user-images.githubusercontent.com/51030092/152072331-5388f159-2eb2-493c-a0c9-3231ec55aa61.mp4" type="video/mp4">
+</video>
 
 
 <!--
