@@ -14,6 +14,7 @@ Email: [simon.julien@colorado.edu](mailto:simon.julien@colorado.edu)
   <source src="https://user-images.githubusercontent.com/51030092/152072331-5388f159-2eb2-493c-a0c9-3231ec55aa61.mp4" type="video/mp4">
 </video>
 
+https://user-images.githubusercontent.com/51030092/152072331-5388f159-2eb2-493c-a0c9-3231ec55aa61.mp4
 
 <!--
 **siju9917/siju9917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
